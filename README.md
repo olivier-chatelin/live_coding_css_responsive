@@ -1,9 +1,9 @@
 # Live coding site responsive  
 Notions abordées 
-- fonts depuis Google Fonts
-- icons depuis Google Fonts
-- grid css
-- media queries
-- event listeners
+- Fonts depuis Google Fonts
+- Icons depuis Google Fonts
+- Grid css
+- Media queries
+- Event listeners
 
 
